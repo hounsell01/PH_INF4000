@@ -7,5 +7,5 @@ R Code Files and jpegs:
 2. Treemap of sum of popularity for songs by genre (Fig2.jpeg)
 3. Treemap of most prevelant genre, and stacked bar of genre over the years by artist type (latter = Fig3.jpeg)
 4. PCA in acoustic features showuing artist type (animated gif, Fig4.gif) 
-5. Sankey diag showing acoustic features and popular? (TRUE/FALSE) (fig5.jpeg)
+5. Sankey diag showing acoustic features and popular? (TRUE/FALSE) (Fig5.jpeg)
 
